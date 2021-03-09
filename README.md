@@ -1,4 +1,4 @@
-# Welcome to my repositories
+# Welcome to my portfolio
 
 Here is a set of projects that I did as a Data Analyst.
 
