@@ -14,6 +14,7 @@ Home Try-On Funnel:
 + purchase
 
 =============================================
+
 The purchase funnel is:
 
 Take the Style Quiz → Home Try-On → Purchase the Perfect Pair of Glasses
